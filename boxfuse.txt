@@ -1,0 +1,396 @@
+Boxfuse client v.1.29.1.1400
+Copyright 2017 Boxfuse GmbH. All rights reserved.
+
+Account: gjorgiev (Gjorgi Gjorgiev)
+
+WARNING: Invalid Image version (may only contain numbers and dots): 1.0-SNAPSHOT => use image to set, falling back to auto-generated version for now: 0.0.0.1506766894537
+Fusing Image for play-java-starter-example-1.0-SNAPSHOT.zip (Play) ...
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/Image fused in 00:14.822s (84280 K) -> gjorgiev/play-java-starter-example:0.0.0.1506766894537
+ Launching Instance of gjorgiev/play-java-starter-example:0.0.0.1506766894537 on VirtualBox ...
+Port 9000/http is occupied. Using alternative port: 9003/http
+Forwarding http port localhost:9003 -> vb-fcf1000c:9000
+Instance launched in 00:22.153s -> vb-fcf1000c
+Waiting for payload to start on vb-fcf1000c:9000 (expecting HTTP 200 at / within 300s) ...
+vb-fcf1000c -> starting pid 635, tty '': '/etc/init.d/rcS'
+vb-fcf1000c -> Instance bootup starting at 2017-09-30 10:22:19 ...
+vb-fcf1000c -> 
+vb-fcf1000c -> Configuring network adapter ...
+vb-fcf1000c -> udhcpc (v1.22.1) started
+vb-fcf1000c -> Setting IP address 0.0.0.0 on eth0
+vb-fcf1000c -> Sending discover...
+vb-fcf1000c -> Sending discover...
+vb-fcf1000c -> Sending select for 10.0.2.15...
+vb-fcf1000c -> Lease of 10.0.2.15 obtained, lease time 86400
+vb-fcf1000c -> Setting IP address 10.0.2.15 on eth0
+vb-fcf1000c -> ifconfig: bad address '+'
+vb-fcf1000c -> Adding router 10.0.2.2
+vb-fcf1000c -> Adding DNS server 192.168.0.1
+vb-fcf1000c -> 
+vb-fcf1000c -> Running on VirtualBox ...
+vb-fcf1000c -> Injecting environment variables ...
+vb-fcf1000c -> Loading VirtualBox kernel modules ...
+vb-fcf1000c -> Creating 1 GB /tmp filesystem ...
+vb-fcf1000c -> Tuning kernel parameters ...
+vb-fcf1000c -> 
+vb-fcf1000c -> ******************************************************************************
+vb-fcf1000c -> 
+vb-fcf1000c -> boxfuse is in the house!
+vb-fcf1000c -> 
+vb-fcf1000c -> Payload
+vb-fcf1000c -> -------
+vb-fcf1000c -> Name        : play-java-starter-example-1.0-SNAPSHOT.zip
+vb-fcf1000c -> Type        : Play
+vb-fcf1000c -> Checksum    : 013d4eb6
+vb-fcf1000c -> 
+vb-fcf1000c -> Image
+vb-fcf1000c -> -----
+vb-fcf1000c -> Id          : ba-d8084d69fbf64c3885580c463d1fe49d
+vb-fcf1000c -> Coordinates : gjorgiev/play-java-starter-example:0.0.0.1506766894537
+vb-fcf1000c -> Debug       : false
+vb-fcf1000c -> Strace      : false
+vb-fcf1000c -> Ports       : http -> 9000
+vb-fcf1000c -> 
+vb-fcf1000c -> Instance
+vb-fcf1000c -> --------
+vb-fcf1000c -> Id          : vb-fcf1000c
+vb-fcf1000c -> IP Address  : 10.0.2.15
+vb-fcf1000c -> Temp Space  : 1 GB
+vb-fcf1000c -> 
+vb-fcf1000c -> Environment
+vb-fcf1000c -> -----------
+vb-fcf1000c -> BOOT_IMAGE=efi/boot/bootx64.efi
+vb-fcf1000c -> BOXFUSE_ACCOUNT=gjorgiev
+vb-fcf1000c -> BOXFUSE_APP=play-java-starter-example
+vb-fcf1000c -> BOXFUSE_CLOUDWATCHLOGS_ENDPOINT=http://192.168.0.26:8000/cloudwatchlogs
+vb-fcf1000c -> BOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011
+vb-fcf1000c -> BOXFUSE_COMPONENTS_CACERTS=2017.02.24
+vb-fcf1000c -> BOXFUSE_COMPONENTS_FREETYPE=2.6
+vb-fcf1000c -> BOXFUSE_COMPONENTS_GLIBC=2.25
+vb-fcf1000c -> BOXFUSE_COMPONENTS_LIBGCC=4.9.2
+vb-fcf1000c -> BOXFUSE_COMPONENTS_LIBPNG=1.2.52
+vb-fcf1000c -> BOXFUSE_COMPONENTS_LINUX=4.9.33
+vb-fcf1000c -> BOXFUSE_COMPONENTS_OPENJDK=8.131.11
+vb-fcf1000c -> BOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10
+vb-fcf1000c -> BOXFUSE_COMPONENTS_VBOXSF=4.9.33
+vb-fcf1000c -> BOXFUSE_COMPONENTS_ZLIB=1.2.8
+vb-fcf1000c -> BOXFUSE_DEBUG=false
+vb-fcf1000c -> BOXFUSE_DEBUG_WAIT=false
+vb-fcf1000c -> BOXFUSE_ENV=dev
+vb-fcf1000c -> BOXFUSE_HOST_IP=192.168.0.26
+vb-fcf1000c -> BOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506766894537
+vb-fcf1000c -> BOXFUSE_IMAGE_ID=ba-d8084d69fbf64c3885580c463d1fe49d
+vb-fcf1000c -> BOXFUSE_IMAGE_VERSION=0.0.0.1506766894537
+vb-fcf1000c -> BOXFUSE_INSTANCE_ID=vb-fcf1000c
+vb-fcf1000c -> BOXFUSE_INSTANCE_IP=10.0.2.15
+vb-fcf1000c -> BOXFUSE_INSTANCE_IP_PRIVATE=10.0.2.15
+vb-fcf1000c -> BOXFUSE_JVM_JMX=false
+vb-fcf1000c -> BOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart
+vb-fcf1000c -> BOXFUSE_LIVE=false
+vb-fcf1000c -> BOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip
+vb-fcf1000c -> BOXFUSE_PLATFORM_ID=virtualbox
+vb-fcf1000c -> BOXFUSE_PLATFORM_NAME=VirtualBox
+vb-fcf1000c -> BOXFUSE_PORTS_HTTP=9000
+vb-fcf1000c -> BOXFUSE_TMP=1
+vb-fcf1000c -> BOXFUSE_VERSION=1.29.1.1400
+vb-fcf1000c -> HOME=/
+vb-fcf1000c -> LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib
+vb-fcf1000c -> NEW_RELIC_APP_NAME=play-java-starter-example (dev)
+vb-fcf1000c -> PATH=/sbin:/bin:/usr/bin:/native/bin
+vb-fcf1000c -> PWD=/
+vb-fcf1000c -> SHELL=/bin/sh
+vb-fcf1000c -> TERM=vt102
+vb-fcf1000c -> USER=root
+vb-fcf1000c -> initrd=initrd.gz
+vb-fcf1000c -> 
+vb-fcf1000c -> ******************************************************************************
+vb-fcf1000c -> 
+vb-fcf1000c -> 2017/09/30 10:22:22 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting ERROR logs for gjorgiev/play-java-starter-example:0.0.0.1506766894537 to CloudWatch Logs at http://192.168.0.26:8000/cloudwatchlogs (group: boxfuse/dev, stream: gjorgiev/play-java-starter-example) ...
+vb-fcf1000c -> 2017/09/30 10:22:22 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting INFO logs for gjorgiev/play-java-starter-example:0.0.0.1506766894537 to CloudWatch Logs at http://192.168.0.26:8000/cloudwatchlogs (group: boxfuse/dev, stream: gjorgiev/play-java-starter-example) ...
+vb-fcf1000c => 2017-09-30 12:22:22.853 Launching App ...
+vb-fcf1000c => 2017-09-30 12:22:22.853 /jre/bin/java   -d64 -Xmx710m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_CLOUDWATCHLOGS_ENDPOINT=http://192.168.0.26:8000/cloudwatchlogs' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=dev' '-DBOXFUSE_HOST_IP=192.168.0.26' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506766894537' '-DBOXFUSE_IMAGE_ID=ba-d8084d69fbf64c3885580c463d1fe49d' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506766894537' '-DBOXFUSE_INSTANCE_ID=vb-fcf1000c' '-DBOXFUSE_INSTANCE_IP=10.0.2.15' '-DBOXFUSE_INSTANCE_IP_PRIVATE=10.0.2.15' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=virtualbox' '-DBOXFUSE_PLATFORM_NAME=VirtualBox' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (dev)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+vb-fcf1000c => 2017-09-30 12:22:30.879 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+vb-fcf1000c => 2017-09-30 12:22:31.036 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T10:22:31.033Z
+vb-fcf1000c => 2017-09-30 12:22:31.044 [info] play.api.Play - Application started (Prod)
+vb-fcf1000c => 2017-09-30 12:22:32.527 [info] p.c.s.AkkaHttpServer - Listening for HTTP on /0.0.0.0:9000
+Healthcheck (http://127.0.0.1:9003/) returned 400 instead of 200. Retrying ...
+vb-fcf1000c => 2017-09-30 12:22:33.165 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:34.572 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:35.590 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:35.613 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:36.666 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:37.689 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:38.717 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:39.748 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:40.785 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:41.812 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:42.834 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:43.867 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:44.901 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:45.944 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:46.980 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:48.046 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:49.202 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:50.278 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:51.320 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:52.353 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:53.390 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:54.424 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:55.452 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:56.477 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:57.514 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:58.544 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:22:59.572 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:00.603 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:01.657 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:02.714 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:03.752 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:04.774 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:05.802 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:06.836 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:07.858 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:08.923 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:09.964 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:11.008 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:12.025 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:13.046 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:14.068 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:15.098 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:16.111 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:17.140 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:18.239 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:19.267 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:20.309 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:21.338 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:22.360 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:23.377 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:24.396 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:25.413 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:26.432 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:27.483 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:28.501 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:29.540 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:30.561 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:31.574 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:32.590 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:33.632 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:34.656 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:35.687 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:36.712 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:37.751 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:38.798 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:39.818 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:40.839 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:41.862 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:42.875 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:43.905 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:44.918 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:45.933 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:46.945 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:47.960 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:48.974 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:49.991 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:51.007 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:52.023 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:53.039 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:54.059 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:55.078 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:56.097 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:57.110 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:58.138 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:23:59.153 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:00.170 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:01.188 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:02.217 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:03.248 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:04.267 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:05.278 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:06.292 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:07.316 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:08.338 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:09.357 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:10.376 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:11.425 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:12.440 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:13.461 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:14.477 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:15.498 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:16.517 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:17.531 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:18.542 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:19.552 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:20.565 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:21.575 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:22.591 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:23.606 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:24.627 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:25.641 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:26.662 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:27.686 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:28.708 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:29.718 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:30.731 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:31.741 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:32.751 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:33.764 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:34.778 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:35.791 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:36.804 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:37.830 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:38.854 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:39.874 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:40.888 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:41.913 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:42.951 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:43.988 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:45.009 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:46.029 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:47.048 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:48.082 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:49.112 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:50.136 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:51.154 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:52.166 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:53.175 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:54.186 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:55.195 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:56.210 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:57.223 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:58.243 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:24:59.264 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:00.279 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:01.306 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:02.316 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:03.329 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:04.359 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:05.377 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:06.387 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:07.421 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:08.457 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:09.483 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:10.491 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:11.504 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:12.514 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:13.522 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:14.535 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:15.552 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:16.575 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:17.606 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:18.627 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:19.656 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:20.673 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:21.704 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:22.719 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:23.736 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:24.749 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:25.768 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:26.783 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:27.806 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:28.860 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:29.895 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:30.917 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:31.938 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:32.979 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:34.007 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:35.052 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:36.070 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:37.082 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:38.094 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:39.105 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:40.114 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:41.125 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:42.140 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:43.152 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:44.165 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:45.196 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:46.214 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:47.225 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:48.239 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:49.252 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:50.261 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:51.272 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:52.284 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:53.305 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:54.343 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:55.373 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:56.418 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:57.435 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:58.488 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:25:59.507 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:00.520 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:01.536 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:02.554 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:03.566 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:04.579 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:05.591 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:06.603 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:07.617 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:08.629 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:09.658 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:10.679 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:11.693 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:12.717 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:13.745 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:14.792 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:15.821 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:16.842 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:17.852 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:18.861 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:19.872 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:20.889 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:21.909 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:22.918 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:23.927 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:24.947 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:25.963 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:26.977 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:27.991 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:29.027 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:30.052 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:31.066 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:32.129 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:33.150 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:34.165 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:35.187 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:36.201 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:37.215 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:38.227 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:39.247 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:40.260 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:41.275 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:42.288 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:43.302 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:44.310 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:45.319 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:46.329 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:47.339 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:48.347 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:49.357 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:50.366 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:51.375 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:52.387 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:53.400 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:54.412 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:55.428 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:56.438 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:57.454 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:58.467 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:26:59.478 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:00.497 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:01.515 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:02.532 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:03.546 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:04.569 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:05.583 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:06.603 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:07.617 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:08.629 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:09.647 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:10.660 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:11.691 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:12.704 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:13.719 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+vb-fcf1000c => 2017-09-30 12:27:14.730 [warn] p.f.h.AllowedHostsFilter - Host not allowed: 127.0.0.1:9003
+ERROR: Payload of Instance vb-fcf1000c came up at http://127.0.0.1:9003/ with HTTP 400 (expected 200)
+ check the app logs for vb-fcf1000c
+=> ensure http://127.0.0.1:9003/ returns HTTP 200
+=> ensure healthcheck.path, healthcheck.port and healthcheck.timeout are configured correctly

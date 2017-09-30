@@ -1,0 +1,438 @@
+Boxfuse client v.1.29.1.1400
+Copyright 2017 Boxfuse GmbH. All rights reserved.
+
+Account: gjorgiev (Gjorgi Gjorgiev)
+
+Pushing gjorgiev/play-java-starter-example:0.0.0.1506764669840 ...
+[----------------------------------------] 232/84280 K[----------------------------------------] 428/84280 K[#---------------------------------------] 1260/84280 K[#---------------------------------------] 1900/84280 K[#---------------------------------------] 2844/84280 K[##--------------------------------------] 3828/84280 K[##--------------------------------------] 4636/84280 K[##--------------------------------------] 5196/84280 K[###-------------------------------------] 6068/84280 K[###-------------------------------------] 6708/84280 K[###-------------------------------------] 7372/84280 K[####------------------------------------] 7908/84280 K[####------------------------------------] 8372/84280 K[####------------------------------------] 9004/84280 K[#####-----------------------------------] 9700/84280 K[#####-----------------------------------] 10364/84280 K[#####-----------------------------------] 10892/84280 K[######----------------------------------] 12060/84280 K[######----------------------------------] 12684/84280 K[######----------------------------------] 13220/84280 K[#######---------------------------------] 13980/84280 K[#######---------------------------------] 14556/84280 K[#######---------------------------------] 14996/84280 K[#######---------------------------------] 15524/84280 K[########--------------------------------] 16020/84280 K[########--------------------------------] 16580/84280 K[########--------------------------------] 17028/84280 K[########--------------------------------] 17588/84280 K[#########-------------------------------] 18156/84280 K[#########-------------------------------] 18660/84280 K                                                          [#########-------------------------------] 19176/84280 K[#########-------------------------------] 19264/84280 K                                                          [#########-------------------------------] 19932/84280 K[##########------------------------------] 20212/84280 K                                                          [##########------------------------------] 20256/84280 K                                                          [##########------------------------------] 20484/84280 K[##########------------------------------] 20852/84280 K[##########------------------------------] 21468/84280 K[###########-----------------------------] 22276/84280 K[###########-----------------------------] 23532/84280 K[###########-----------------------------] 24132/84280 K[############----------------------------] 25068/84280 K[############----------------------------] 25444/84280 K[############----------------------------] 26204/84280 K[#############---------------------------] 26740/84280 K[#############---------------------------] 27588/84280 K[#############---------------------------] 28428/84280 K[##############--------------------------] 29004/84280 K[##############--------------------------] 29524/84280 K[##############--------------------------] 30084/84280 K[###############-------------------------] 30772/84280 K[###############-------------------------] 31308/84280 K[###############-------------------------] 31804/84280 K[###############-------------------------] 32532/84280 K[################------------------------] 33172/84280 K[################------------------------] 33724/84280 K[################------------------------] 34332/84280 K[#################-----------------------] 34884/84280 K[#################-----------------------] 35380/84280 K                                                          [#################-----------------------] 36664/84280 K[##################----------------------] 37040/84280 K[##################----------------------] 37696/84280 K[##################----------------------] 38160/84280 K[##################----------------------] 38712/84280 K                                                          [###################---------------------] 39556/84280 K[###################---------------------] 39780/84280 K[###################---------------------] 40164/84280 K[###################---------------------] 40444/84280 K                                                                                                                    [###################---------------------] 41040/84280 K[####################--------------------] 41104/84280 K[####################--------------------] 41684/84280 K[####################--------------------] 42432/84280 K[####################--------------------] 43092/84280 K[#####################-------------------] 43612/84280 K[#####################-------------------] 44236/84280 K[#####################-------------------] 45036/84280 K[######################------------------] 45436/84280 K[######################------------------] 46172/84280 K[######################------------------] 46468/84280 K[#######################-----------------] 47660/84280 K[#######################-----------------] 48124/84280 K[#######################-----------------] 48732/84280 K[#######################-----------------] 49172/84280 K[#######################-----------------] 49428/84280 K[########################----------------] 50156/84280 K[########################----------------] 50588/84280 K[########################----------------] 50940/84280 K[########################----------------] 51460/84280 K[#########################---------------] 52020/84280 K[#########################---------------] 52972/84280 K[#########################---------------] 53460/84280 K[#########################---------------] 53708/84280 K[##########################--------------] 54516/84280 K[##########################--------------] 55000/84280 K                                                          [##########################--------------] 55528/84280 K[###########################-------------] 55984/84280 K[###########################-------------] 56464/84280 K[###########################-------------] 56552/84280 K[###########################-------------] 57096/84280 K                                                          [############################------------] 58844/84280 K[############################------------] 59204/84280 K[############################------------] 59508/84280 K[############################------------] 59524/84280 K[############################------------] 59948/84280 K[#############################-----------] 60076/84280 K                                                          [#############################-----------] 60712/84280 K                                                          [#############################-----------] 61520/84280 K[#############################-----------] 61536/84280 K[#############################-----------] 61804/84280 K[##############################----------] 62316/84280 K[##############################----------] 63180/84280 K[##############################----------] 63816/84280 K[###############################---------] 64628/84280 K[###############################---------] 65332/84280 K[###############################---------] 65740/84280 K[################################--------] 66412/84280 K[################################--------] 67012/84280 K[################################--------] 67756/84280 K[################################--------] 68452/84280 K[#################################-------] 68924/84280 K[#################################-------] 69612/84280 K[#################################-------] 70396/84280 K[##################################------] 71308/84280 K[##################################------] 71956/84280 K[###################################-----] 72940/84280 K[###################################-----] 73564/84280 K                                                          [###################################-----] 74664/84280 K[####################################----] 75128/84280 K[####################################----] 75680/84280 K[####################################----] 76744/84280 K[#####################################---] 77408/84280 K[#####################################---] 77920/84280 K                                                                                                                    [######################################--] 80416/84280 K[######################################--] 80424/84280 K                                                          [#######################################-] 81924/84280 K[#######################################-] 82000/84280 K[#######################################-] 82032/84280 K[#######################################-] 82384/84280 K[#######################################-] 82696/84280 K[########################################] 83376/84280 K[########################################] 83880/84280 K                                                          Verifying gjorgiev/play-java-starter-example:0.0.0.1506764669840 ...
+-\|/-\Waiting for AWS to create an encrypted AMI for gjorgiev/play-java-starter-example:0.0.0.1506764669840 in eu-central-1 (this may take up to 50 seconds) ...
+|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/AMI created in 01:34.601s in eu-central-1 -> ami-072d9e68
+Creating security group boxsg-gjorgiev-prod-play-java-starter-example ...
+Creating Log Stream boxfuse/prod > gjorgiev/play-java-starter-example ...
+-\|/-Creating Elastic IP ...
+Creating security group boxsg-gjorgiev-prod-play-java-starter-example-0.0.0.1506764669840 ...
+\|/-Launching t2.micro instance of gjorgiev/play-java-starter-example:0.0.0.1506764669840 (ami-072d9e68) in prod (eu-central-1) ...
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|Instance launched in 00:19.787s -> i-0039ebc2d306d23b5
+Creating Cloud Watch Alarm for Instance auto-recovery -> i-0039ebc2d306d23b5-auto-recovery-alarm
+Waiting for AWS to boot Instance i-0039ebc2d306d23b5 and Payload to start at http://18.194.61.153:9000/ ...
+/-\|/-\|/-\|/-\|/-i-0039ebc2d306d23b5 => 2017-09-30 10:57:01.404 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:01.405 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+\|/-\|/-\|/-\|/-\|/i-0039ebc2d306d23b5 => 2017-09-30 10:57:06.261 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+-\|/i-0039ebc2d306d23b5 => 2017-09-30 10:57:06.505 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T10:57:06.504Z
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:06.800 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:06.800 Rebooting in 15 seconds ...
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-i-0039ebc2d306d23b5 => 2017-09-30 10:57:47.413 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:47.413 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+\|/-\|/-\i-0039ebc2d306d23b5 => 2017-09-30 10:57:52.196 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+|/-\i-0039ebc2d306d23b5 => 2017-09-30 10:57:52.425 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T10:57:52.424Z
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:52.693 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 10:57:52.693 Rebooting in 15 seconds ...
+|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\i-0039ebc2d306d23b5 => 2017-09-30 10:58:33.475 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 10:58:33.475 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+|/-\|/-\|i-0039ebc2d306d23b5 => 2017-09-30 10:58:38.252 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+/-\|/-\|/i-0039ebc2d306d23b5 => 2017-09-30 10:58:38.498 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T10:58:38.492Z
+i-0039ebc2d306d23b5 => 2017-09-30 10:58:38.798 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 10:58:38.798 Rebooting in 15 seconds ...
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/i-0039ebc2d306d23b5 => 2017-09-30 10:59:21.851 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 10:59:21.851 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+-\|/-\|/-\|/-\i-0039ebc2d306d23b5 => 2017-09-30 10:59:26.763 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+|/-\|i-0039ebc2d306d23b5 => 2017-09-30 10:59:27.021 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T10:59:27.016Z
+i-0039ebc2d306d23b5 => 2017-09-30 10:59:27.329 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 10:59:27.329 Rebooting in 15 seconds ...
+/-\|/-\|/-\|/-\|/-\|/-i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.000000] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.975488] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => starting pid 907, tty '': '/etc/init.d/rcS'
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance bootup starting at 2017-09-30 10:57:01 ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Configuring network adapter ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => udhcpc (v1.22.1) started
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 0.0.0.0 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending discover...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending select for 172.31.28.1...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Lease of 172.31.28.1 obtained, lease time 3600
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 172.31.28.1 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding router 172.31.16.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding DNS server 172.31.0.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Running on AWS ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Injecting environment variables ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Starting NTP clock syncing ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Creating 1 GB /tmp filesystem ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Tuning kernel parameters ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => boxfuse is in the house!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Payload
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Name        : play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Type        : Play
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Checksum    : 19f77043
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Image
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Coordinates : gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Debug       : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Strace      : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Ports       : http -> 9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => --------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => IP Address  : 52.57.94.194
+\|/-\i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Temp Space  : 1 GB
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Environment
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_AVAILABILITY_ZONE=eu-central-1a
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_REGION=eu-central-1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOOT_IMAGE=efi/boot/bootx64.efi
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ACCOUNT=gjorgiev
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_APP=play-java-starter-example
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_CACERTS=2017.02.24
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_FREETYPE=2.6
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_GLIBC=2.25
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBGCC=4.9.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBPNG=1.2.52
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LINUX=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_OPENJDK=8.131.11
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_VBOXSF=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_ZLIB=1.2.8
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG_WAIT=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ENV=prod
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_VERSION=0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP=52.57.94.194
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_JMX=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_LIVE=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_ID=aws
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_NAME=AWS
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PORTS_HTTP=9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_TMP=1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_VERSION=1.29.1.1400
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => HOME=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => NEW_RELIC_APP_NAME=play-java-starter-example (prod)
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PATH=/sbin:/bin:/usr/bin:/native/bin
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PWD=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => SHELL=/bin/sh
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => TERM=vt102
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => USER=root
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => initrd=initrd.gz
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:01 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting INFO logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:01 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting ERROR logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => The system is going down NOW!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:22 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:22 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGTERM to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGKILL to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Requesting system reboot
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [   25.048589] reboot: Restarting system
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.000000] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.983980] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => starting pid 907, tty '': '/etc/init.d/rcS'
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance bootup starting at 2017-09-30 10:57:47 ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Configuring network adapter ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => udhcpc (v1.22.1) started
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 0.0.0.0 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending discover...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending select for 172.31.28.1...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Lease of 172.31.28.1 obtained, lease time 3600
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 172.31.28.1 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding router 172.31.16.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding DNS server 172.31.0.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Running on AWS ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Injecting environment variables ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Starting NTP clock syncing ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Creating 1 GB /tmp filesystem ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Tuning kernel parameters ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => boxfuse is in the house!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Payload
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Name        : play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Type        : Play
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Checksum    : 19f77043
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Image
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Coordinates : gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Debug       : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Strace      : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Ports       : http -> 9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => --------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => IP Address  : 52.57.94.194
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Temp Space  : 1 GB
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Environment
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_AVAILABILITY_ZONE=eu-central-1a
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_REGION=eu-central-1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOOT_IMAGE=efi/boot/bootx64.efi
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ACCOUNT=gjorgiev
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_APP=play-java-starter-example
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_CACERTS=2017.02.24
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_FREETYPE=2.6
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_GLIBC=2.25
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBGCC=4.9.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBPNG=1.2.52
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LINUX=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_OPENJDK=8.131.11
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_VBOXSF=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_ZLIB=1.2.8
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG_WAIT=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ENV=prod
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_VERSION=0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP=52.57.94.194
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_JMX=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_LIVE=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_ID=aws
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_NAME=AWS
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PORTS_HTTP=9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_TMP=1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_VERSION=1.29.1.1400
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => HOME=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => NEW_RELIC_APP_NAME=play-java-starter-example (prod)
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PATH=/sbin:/bin:/usr/bin:/native/bin
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PWD=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => SHELL=/bin/sh
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => TERM=vt102
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => USER=root
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => initrd=initrd.gz
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:47 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting INFO logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:57:47 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting ERROR logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => The system is going down NOW!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:08 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:08 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGTERM to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGKILL to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Requesting system reboot
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [   24.854289] reboot: Restarting system
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.000000] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [    0.990998] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => starting pid 908, tty '': '/etc/init.d/rcS'
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance bootup starting at 2017-09-30 10:58:33 ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Configuring network adapter ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => udhcpc (v1.22.1) started
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 0.0.0.0 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending discover...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sending select for 172.31.28.1...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Lease of 172.31.28.1 obtained, lease time 3600
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Setting IP address 172.31.28.1 on eth0
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding router 172.31.16.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Adding DNS server 172.31.0.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Running on AWS ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Injecting environment variables ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Starting NTP clock syncing ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Creating 1 GB /tmp filesystem ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Tuning kernel parameters ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => boxfuse is in the house!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Payload
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Name        : play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Type        : Play
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Checksum    : 19f77043
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Image
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Coordinates : gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Debug       : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Strace      : false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Ports       : http -> 9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Instance
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => --------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Id          : i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => IP Address  : 52.57.94.194
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Temp Space  : 1 GB
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Environment
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => -----------
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_AVAILABILITY_ZONE=eu-central-1a
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => AWS_REGION=eu-central-1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOOT_IMAGE=efi/boot/bootx64.efi
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ACCOUNT=gjorgiev
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_APP=play-java-starter-example
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_CACERTS=2017.02.24
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_FREETYPE=2.6
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_GLIBC=2.25
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBGCC=4.9.2
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LIBPNG=1.2.52
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_LINUX=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_OPENJDK=8.131.11
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_VBOXSF=4.9.33
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_COMPONENTS_ZLIB=1.2.8
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_DEBUG_WAIT=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_ENV=prod
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_IMAGE_VERSION=0.0.0.1506764669840
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP=52.57.94.194
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_JMX=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_LIVE=false
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_ID=aws
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PLATFORM_NAME=AWS
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_PORTS_HTTP=9000
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_TMP=1
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => BOXFUSE_VERSION=1.29.1.1400
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => HOME=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => NEW_RELIC_APP_NAME=play-java-starter-example (prod)
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PATH=/sbin:/bin:/usr/bin:/native/bin
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => PWD=/
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => SHELL=/bin/sh
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => TERM=vt102
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => USER=root
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => initrd=initrd.gz
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => ******************************************************************************
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:33 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting INFO logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:33 Boxfuse CloudWatch Logs Agent 1.0.2 redirecting ERROR logs for gjorgiev/play-java-starter-example:0.0.0.1506764669840 to CloudWatch Logs (group: boxfuse/prod, stream: gjorgiev/play-java-starter-example) ...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => The system is going down NOW!
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:54 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => 2017/09/30 10:58:54 Exiting...
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGTERM to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Sent SIGKILL to all processes
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => Requesting system reboot
+i-0039ebc2d306d23b5 -> i-0039ebc2d306d23b5 => [   24.923642] reboot: Restarting system
+|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|i-0039ebc2d306d23b5 => 2017-09-30 11:00:09.561 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 11:00:09.561 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+/-\|/-\|/-\|/-i-0039ebc2d306d23b5 => 2017-09-30 11:00:14.571 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+i-0039ebc2d306d23b5 => 2017-09-30 11:00:14.822 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T11:00:14.821Z
+i-0039ebc2d306d23b5 => 2017-09-30 11:00:15.149 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 11:00:15.149 Rebooting in 15 seconds ...
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\i-0039ebc2d306d23b5 => 2017-09-30 11:00:56.564 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 11:00:56.564 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+|/-\|/-\|/-\|/-\|/-\|/-i-0039ebc2d306d23b5 => 2017-09-30 11:01:01.636 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:01.874 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T11:01:01.873Z
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.032 Oops, cannot start the server.
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 Configuration error: Configuration error[
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 The application secret has not been set, and we are in prod mode. Your application is not secure.
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034           ]
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.Configuration$.configError(Configuration.scala:155)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.Configuration.reportError(Configuration.scala:985)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.http.HttpConfiguration$.getSecretConfiguration(HttpConfiguration.scala:253)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.http.HttpConfiguration$.fromConfiguration(HttpConfiguration.scala:238)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.http.HttpConfiguration$HttpConfigurationProvider.get$lzycompute(HttpConfiguration.scala:284)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.http.HttpConfiguration$HttpConfigurationProvider.get(HttpConfiguration.scala:284)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at play.api.http.HttpConfiguration$HttpConfigurationProvider.get(HttpConfiguration.scala:283)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at com.google.inject.internal.ProviderInternalFactory.provision(ProviderInternalFactory.java:81)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.034 	at com.google.inject.internal.BoundProviderFactory.provision(BoundProviderFactory.java:72)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.ProviderInternalFactory.circularGet(ProviderInternalFactory.java:61)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.BoundProviderFactory.get(BoundProviderFactory.java:62)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.SingleParameterInjector.inject(SingleParameterInjector.java:38)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.SingleParameterInjector.getAll(SingleParameterInjector.java:62)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:110)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.035 	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:90)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:268)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:46)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1092)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:194)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:41)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.BoundProviderFactory.get(BoundProviderFactory.java:61)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.SingleParameterInjector.inject(SingleParameterInjector.java:38)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.SingleParameterInjector.getAll(SingleParameterInjector.java:62)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:110)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.036 	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:90)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:268)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:46)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1092)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:194)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:41)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.BoundProviderFactory.get(BoundProviderFactory.java:61)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.SingleParameterInjector.inject(SingleParameterInjector.java:38)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.SingleParameterInjector.getAll(SingleParameterInjector.java:62)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.037 	at com.google.inject.internal.ConstructorInjector.provision(ConstructorInjector.java:110)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.ConstructorInjector.construct(ConstructorInjector.java:90)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.ConstructorBindingImpl$Factory.get(ConstructorBindingImpl.java:268)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.ProviderToInternalFactoryAdapter$1.call(ProviderToInternalFactoryAdapter.java:46)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1092)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.ProviderToInternalFactoryAdapter.get(ProviderToInternalFactoryAdapter.java:40)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.038 	at com.google.inject.internal.SingletonScope$1.get(SingletonScope.java:194)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalFactoryToProviderAdapter.get(InternalFactoryToProviderAdapter.java:41)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.FactoryProxy.get(FactoryProxy.java:56)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalInjectorCreator$1.call(InternalInjectorCreator.java:205)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalInjectorCreator$1.call(InternalInjectorCreator.java:199)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InjectorImpl.callInContext(InjectorImpl.java:1085)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalInjectorCreator.loadEagerSingletons(InternalInjectorCreator.java:199)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalInjectorCreator.injectDynamically(InternalInjectorCreator.java:180)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.internal.InternalInjectorCreator.build(InternalInjectorCreator.java:110)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.Guice.createInjector(Guice.java:99)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.039 	at com.google.inject.Guice.createInjector(Guice.java:84)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.041 	at play.api.inject.guice.GuiceBuilder.injector(GuiceInjectorBuilder.scala:185)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.041 	at play.api.inject.guice.GuiceApplicationBuilder.build(GuiceApplicationBuilder.scala:137)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.041 	at play.api.inject.guice.GuiceApplicationLoader.load(GuiceApplicationLoader.scala:21)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.042 	at play.core.server.ProdServerStart$.start(ProdServerStart.scala:50)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.042 	at play.core.server.ProdServerStart$.main(ProdServerStart.scala:25)
+ERROR: i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.042 	at play.core.server.ProdServerStart.main(ProdServerStart.scala)
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.164 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:02.164 Rebooting in 15 seconds ...
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/i-0039ebc2d306d23b5 => 2017-09-30 11:01:42.481 Launching App ...
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:42.481 /jre/bin/java   -d64 -Xmx708m -XX:OnOutOfMemoryError="killall -3 java" -Djavax.net.ssl.trustStore=/cacerts/cacerts -Djavax.net.ssl.trustStorePassword=changeit -Djava.awt.headless=true -Dfile.encoding=UTF-8 -Djava.net.preferIPv4Stack=true -Djava.security.egd=file:/dev/./urandom -Djdk.reflect.allowGetCallerClass=true    '-DAWS_AVAILABILITY_ZONE=eu-central-1a' '-DAWS_REGION=eu-central-1' '-DBOOT_IMAGE=efi/boot/bootx64.efi' '-DBOXFUSE_ACCOUNT=gjorgiev' '-DBOXFUSE_APP=play-java-starter-example' '-DBOXFUSE_COMPONENTS_BUSYBOX=1.22.1.011' '-DBOXFUSE_COMPONENTS_CACERTS=2017.02.24' '-DBOXFUSE_COMPONENTS_FREETYPE=2.6' '-DBOXFUSE_COMPONENTS_GLIBC=2.25' '-DBOXFUSE_COMPONENTS_LIBGCC=4.9.2' '-DBOXFUSE_COMPONENTS_LIBPNG=1.2.52' '-DBOXFUSE_COMPONENTS_LINUX=4.9.33' '-DBOXFUSE_COMPONENTS_OPENJDK=8.131.11' '-DBOXFUSE_COMPONENTS_TTF_BITSTREAM_VERA=1.10' '-DBOXFUSE_COMPONENTS_VBOXSF=4.9.33' '-DBOXFUSE_COMPONENTS_ZLIB=1.2.8' '-DBOXFUSE_DEBUG=false' '-DBOXFUSE_DEBUG_WAIT=false' '-DBOXFUSE_ENV=prod' '-DBOXFUSE_IMAGE_COORDINATES=gjorgiev/play-java-starter-example:0.0.0.1506764669840' '-DBOXFUSE_IMAGE_ID=ba-37234c0d70f54eb2b955df2e678baa0f' '-DBOXFUSE_IMAGE_VERSION=0.0.0.1506764669840' '-DBOXFUSE_INSTANCE_ID=i-0039ebc2d306d23b5' '-DBOXFUSE_INSTANCE_IP=52.57.94.194' '-DBOXFUSE_INSTANCE_IP_PRIVATE=172.31.28.1' '-DBOXFUSE_JVM_JMX=false' '-DBOXFUSE_JVM_MAIN_CLASS=play.core.server.ProdServerStart' '-DBOXFUSE_LIVE=false' '-DBOXFUSE_PAYLOAD_NAME=play-java-starter-example-1.0-SNAPSHOT.zip' '-DBOXFUSE_PLATFORM_ID=aws' '-DBOXFUSE_PLATFORM_NAME=AWS' '-DBOXFUSE_PORTS_HTTP=9000' '-DBOXFUSE_TMP=1' '-DBOXFUSE_VERSION=1.29.1.1400' '-DHOME=/' '-DLD_LIBRARY_PATH=/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/native/lib' '-DNEW_RELIC_APP_NAME=play-java-starter-example (prod)' '-DPATH=/sbin:/bin:/usr/bin:/native/bin' '-DPWD=/' '-DSHELL=/bin/sh' '-DTERM=vt102' '-DUSER=root' '-Dinitrd=initrd.gz'  -Dhttp.port=9000 -cp "/app/play-java-starter-example-1.0-SNAPSHOT/conf:/app/play-java-starter-example-1.0-SNAPSHOT/lib/*"  play.core.server.ProdServerStart
+-\|/-\|/-\i-0039ebc2d306d23b5 => 2017-09-30 11:01:47.210 [warn] o.h.v.m.ParameterMessageInterpolator - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:47.433 [info] application - ApplicationTimer demo: Starting application at 2017-09-30T11:01:47.432Z
+|/-\|i-0039ebc2d306d23b5 => 2017-09-30 11:01:47.642 JVM exited with status 255
+i-0039ebc2d306d23b5 => 2017-09-30 11:01:47.642 Rebooting in 15 seconds ...
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|Destroying Cloud Watch Alarm i-0039ebc2d306d23b5-auto-recovery-alarm ...
+Terminating instance i-0039ebc2d306d23b5 ...
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/Destroying Security Group sg-d49f5abe (boxsg-gjorgiev-prod-play-java-starter-example-0.0.0.1506764669840) ...
+-\|/Destroying Elastic IP 52.57.94.194...
+Destroying Security Group sg-3f9c5955 (boxsg-gjorgiev-prod-play-java-starter-example) ...
+WARNING: Run failed: Time out: Payload of Instance i-0039ebc2d306d23b5 failed to come up within 300 seconds at http://18.194.61.153:9000/
+=> ensure your application responds with an HTTP 200 at / on port 9000
+=> check the logs for i-0039ebc2d306d23b5 in prod
+=> ensure the healthcheck configuration (healthcheck.port, healthcheck.path, healthcheck.timeout) matches your application
+ ERROR: Running gjorgiev/play-java-starter-example:0.0.0.1506764669840 failed!
